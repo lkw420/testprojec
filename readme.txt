@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 xxxxx=
 ssssss
 xinzengjia yidian dongxi 
+Creating a new branch is quick & simple.
